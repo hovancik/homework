@@ -1,0 +1,7 @@
+Load and parse the following table using PHP: https://www.nike.sk/app/statistika/20590/7/ (use the table at the top titled “Hokej - Česko Extraliga - CELKOM”).
+
+Generate a new HTML table in PHP from the collected data. The table should have sorting functionality for the first 9 columns.
+
+In HTML use JavaScript in combination with jQuery or mootools. The page should not reload with every sorting/event. Ajax can be used or sorting can be performed directly in JavaScript. When using Ajax, don’t send/receive HTML but only JSON data. Sort numbers as numeric values not as text.
+
+Use :hover states on active elements. From the design perspective, keep it simple and usable. If you can make it look good, you get a special badge. :) 
